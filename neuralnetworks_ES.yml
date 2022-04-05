@@ -1,0 +1,109 @@
+conversations:
+- - qué es
+  - Una red neuronal es un modelo simplificado que emula el modo en que el cerebro humano procesa la información.
+  - Una red neuronal es un procesamiento distribuido masivamente paralelo que tiene una tendencia natural para almacenar conocimiento empírico y hacerlo disponible para el uso.
+  - Las redes neuronales son sistemas computacionales, inspirados en las neuronas que constituyen el cerebro de los animales, dotando  a los ordenadores de inteligencia artificial.
+- - red neuronal
+  - Una red neuronal es un modelo simplificado que emula el modo en que el cerebro humano procesa la información.
+  - Una red neuronal es un procesamiento distribuido masivamente paralelo que tiene una tendencia natural para almacenar conocimiento empírico y hacerlo disponible para el uso.
+  - Las redes neuronales son sistemas computacionales, inspirados en las neuronas que constituyen el cerebro de los animales, dotando  a los ordenadores de inteligencia artificial. 
+- - qué son
+  - Una red neuronal es un modelo simplificado que emula el modo en que el cerebro humano procesa la información.
+  - Una red neuronal es un procesamiento distribuido masivamente paralelo que tiene una tendencia natural para almacenar conocimiento empírico y hacerlo disponible para el uso.
+  - Las redes neuronales son sistemas computacionales, inspirados en las neuronas que constituyen el cerebro de los animales, dotando  a los ordenadores de inteligencia artificial. 
+- - redes neuronales
+  - Una red neuronal es un modelo simplificado que emula el modo en que el cerebro humano procesa la información.
+  - Una red neuronal es un procesamiento distribuido masivamente paralelo que tiene una tendencia natural para almacenar conocimiento empírico y hacerlo disponible para el uso.
+  - Las redes neuronales son sistemas computacionales, inspirados en las neuronas que constituyen el cerebro de los animales, dotando  a los ordenadores de inteligencia artificial.
+- - Cómo funciona
+  - Constan de un número grande de procesadores simples ligados por conexiones con pesos. Las unidades de procesamiento se denominan neuronas. Cada unidad recibe entradas de otros nodos y genera una salida simple escalar que depende de la información local disponible.
+  - Una red neuronal artificial funciona mediante la creación de conexiones entre muchos elementos de procesamiento diferentes, cada uno similar a una sola neurona en un cerebro biológico. Estas neuronas pueden estar físicamente construidas o simuladas por una computadora digital.
+  - El funcionamiento de las redes neuronales se asemeja al de un cerebro humano. Las RNA reciben un valor de entrada para luego llegar hasta un nodo que es llamado neurona, cada una posee un peso (valor numérico) con el cual se logra modificar la entrada recibida.
+- - Cómo funcionan
+  - Constan de un número grande de procesadores simples ligados por conexiones con pesos. Las unidades de procesamiento se denominan neuronas. Cada unidad recibe entradas de otros nodos y genera una salida simple escalar que depende de la información local disponible.
+  - Una red neuronal artificial funciona mediante la creación de conexiones entre muchos elementos de procesamiento diferentes, cada uno similar a una sola neurona en un cerebro biológico. Estas neuronas pueden estar físicamente construidas o simuladas por una computadora digital.
+  - El funcionamiento de las redes neuronales se asemeja al de un cerebro humano. Las RNA reciben un valor de entrada para luego llegar hasta un nodo que es llamado neurona, cada una posee un peso (valor numérico) con el cual se logra modificar la entrada recibida. 
+- - Para qué sirve
+  - Las redes neuronales permiten extraer información útil y producir inferencias a partir de los datos disponibles gracias a su capacidad de aprendizaje.
+  - Las redes neuronales artificiales son capaces de crear patrones, reconocer información o resolver enigmas complejos, pudiendo ser de gran utilidad para sectores como la moda o la lucha contra el crimen. Además de esto, las redes neuronales tienen otro objetivo importante, como es contribuir a la creación de redes.
+  - El objetivo principal de este modelo es aprender modificándose automáticamente a si mismo de forma que puede llegar a realizar tareas complejas que no podrían ser realizadas mediante la clásica programación basada en reglas.
+  - Se pueden automatizar funciones que en un principio solo podrían ser realizadas por personas.
+- - Para qué sirven las
+  - Las redes neuronales permiten extraer información útil y producir inferencias a partir de los datos disponibles gracias a su capacidad de aprendizaje.
+  - Las redes neuronales artificiales son capaces de crear patrones, reconocer información o resolver enigmas complejos, pudiendo ser de gran utilidad para sectores como la moda o la lucha contra el crimen. Además de esto, las redes neuronales tienen otro objetivo importante, como es contribuir a la creación de redes.
+  - El objetivo principal de este modelo es aprender modificándose automáticamente a si mismo de forma que puede llegar a realizar tareas complejas que no podrían ser realizadas mediante la clásica programación basada en reglas.
+  - Se pueden automatizar funciones que en un principio solo podrían ser realizadas por personas.
+- - Cómo entrenar una
+  - Cada neurona de una red neuronal toma los valores de entrada multiplicados por una ponderación para representar la fortaleza de esa conexión. La propagación hacia atrás detecta las ponderaciones correctas que se deben aplicar a los nodos de una red neuronal mediante la comparación de las salidas actuales de la red con los resultados correctos o deseados. 
+  - El entrenamiento de una red neuronal se realiza modificando los pesos de sus neuronas para que consiga extraer los resultados deseados.
+  - Entrenar una red neuronal consiste en ajustar cada uno de los pesos de las entradas de todas las neuronas que forman parte de la red neuronal, para que las respuestas de la capa de salida se ajusten lo más posible a los datos que conocemos.
+- - Cómo se entrenan las
+  - Cada neurona de una red neuronal toma los valores de entrada multiplicados por una ponderación para representar la fortaleza de esa conexión. La propagación hacia atrás detecta las ponderaciones correctas que se deben aplicar a los nodos de una red neuronal mediante la comparación de las salidas actuales de la red con los resultados correctos o deseados. 
+  - El entrenamiento de una red neuronal se realiza modificando los pesos de sus neuronas para que consiga extraer los resultados deseados.
+  - Entrenar una red neuronal consiste en ajustar cada uno de los pesos de las entradas de todas las neuronas que forman parte de la red neuronal, para que las respuestas de la capa de salida se ajusten lo más posible a los datos que conocemos.
+- - Cómo entrenan las
+  - Cada neurona de una red neuronal toma los valores de entrada multiplicados por una ponderación para representar la fortaleza de esa conexión. La propagación hacia atrás detecta las ponderaciones correctas que se deben aplicar a los nodos de una red neuronal mediante la comparación de las salidas actuales de la red con los resultados correctos o deseados. 
+  - El entrenamiento de una red neuronal se realiza modificando los pesos de sus neuronas para que consiga extraer los resultados deseados.
+  - Entrenar una red neuronal consiste en ajustar cada uno de los pesos de las entradas de todas las neuronas que forman parte de la red neuronal, para que las respuestas de la capa de salida se ajusten lo más posible a los datos que conocemos.
+- - Qué es una función de activación
+  - La función de activación devuelve una salida que será generada por la neurona dada una entrada o conjunto de entradas.
+  - La función de activación se encarga de devolver una salida a partir de un valor de entrada, normalmente el conjunto de valores de salida en un rango determinado como (0,1) o (-1,1).
+  - La Función de Activación de un nodo define la salida de un nodo dada una entrada o un conjunto de entradas.
+- - Qué es la función de activación
+  - La función de activación devuelve una salida que será generada por la neurona dada una entrada o conjunto de entradas.
+  - La función de activación se encarga de devolver una salida a partir de un valor de entrada, normalmente el conjunto de valores de salida en un rango determinado como (0,1) o (-1,1).
+  - La Función de Activación de un nodo define la salida de un nodo dada una entrada o un conjunto de entradas.
+- - Función sigmoide
+  - La función sigmoide transforma los valores introducidos a una escala (0,1), donde los valores altos tienen de manera asintótica a 1 y los valores muy bajos tienden de manera asintótica a 0.
+- - Qué es una función sigmoide
+  - La función sigmoide transforma los valores introducidos a una escala (0,1), donde los valores altos tienen de manera asintótica a 1 y los valores muy bajos tienden de manera asintótica a 0.
+- - Función tangente hiperbólica
+  - La función tangente hiperbólica transforma los valores introducidos a una escala (-1,1), donde los valores altos tienen de manera asintótica a 1 y los valores muy bajos tienden de manera asintótica a -1.
+- - Qué es la función tangente tangente hiperbólica
+  - La función tangente hiperbólica transforma los valores introducidos a una escala (-1,1), donde los valores altos tienen de manera asintótica a 1 y los valores muy bajos tienden de manera asintótica a -1.
+- - Función relu
+  - La función ReLU transforma los valores introducidos anulando los valores negativos y dejando los positivos tal y como entran.
+- - Qué es la función relu
+  - La función ReLU transforma los valores introducidos anulando los valores negativos y dejando los positivos tal y como entran.
+- - Dónde se usan
+  - Hasta 2016, Youtube recurría a algoritmos que sencillamente recomendaban vídeos con base a un conjunto de varios criterios duración del vídeo, número de suscriptores, número de veces que había sido compartido, etc. Sin embargo, hace 3 años Youtube empezó a adoptar las redes neuronales.
+  - La aplicación de Facebook, específicamente la de iOS hace uso de IA y redes neuronales para describir el contenido de las imágenes a los usuarios ciegos.
+  - Los procesadores de las gráficas de Nvidia han demostrado ser especialmente útiles para entrenar las redes neurales utilizadas en el aprendizaje profundo. Su éxito ha sido tal, que la compañía ha anunciado un nuevo procesador diseñado específicamente para su uso en vehículos autónomos y que se espera podría acelerar considerablemente su desarrollo.
+- - Dame un ejemplo
+  - Hasta 2016, Youtube recurría a algoritmos que sencillamente recomendaban vídeos con base a un conjunto de varios criterios duración del vídeo, número de suscriptores, número de veces que había sido compartido, etc. Sin embargo, hace 3 años Youtube empezó a adoptar las redes neuronales.
+  - La aplicación de Facebook, específicamente la de iOS hace uso de IA y redes neuronales para describir el contenido de las imágenes a los usuarios ciegos.
+  - Los procesadores de las gráficas de Nvidia han demostrado ser especialmente útiles para entrenar las redes neurales utilizadas en el aprendizaje profundo. Su éxito ha sido tal, que la compañía ha anunciado un nuevo procesador diseñado específicamente para su uso en vehículos autónomos y que se espera podría acelerar considerablemente su desarrollo. 
+- - ejemplos de redes neuronales
+  - Hasta 2016, Youtube recurría a algoritmos que sencillamente recomendaban vídeos con base a un conjunto de varios criterios duración del vídeo, número de suscriptores, número de veces que había sido compartido, etc. Sin embargo, hace 3 años Youtube empezó a adoptar las redes neuronales.
+  - La aplicación de Facebook, específicamente la de iOS hace uso de IA y redes neuronales para describir el contenido de las imágenes a los usuarios ciegos.
+  - Los procesadores de las gráficas de Nvidia han demostrado ser especialmente útiles para entrenar las redes neurales utilizadas en el aprendizaje profundo. Su éxito ha sido tal, que la compañía ha anunciado un nuevo procesador diseñado específicamente para su uso en vehículos autónomos y que se espera podría acelerar considerablemente su desarrollo.
+- - Cómo puedo hacer una
+  - Phyton es uno de los lenguajes de programación más populares que existen; sin embargo, pocos saben que es una herramienta perfecta para crear una red neuronal básica, una estructura que forma parte del sector de la inteligencia artificial y, por tanto, del big data. 
+  - A día de hoy, Python es el lenguaje de programación más común utilizado para construir y entrenar redes neuronales, sobre todo, las denominadas convolucionales.
+  - Te recomiendo el siguiente enlace https://anderfernandez.com/blog/como-programar-una-red-neuronal-desde-0-en-python/
+- - Cómo hacer una 
+  - Phyton es uno de los lenguajes de programación más populares que existen; sin embargo, pocos saben que es una herramienta perfecta para crear una red neuronal básica, una estructura que forma parte del sector de la inteligencia artificial y, por tanto, del big data. 
+  - A día de hoy, Python es el lenguaje de programación más común utilizado para construir y entrenar redes neuronales, sobre todo, las denominadas convolucionales.
+  - Te recomiendo el siguiente enlace https://anderfernandez.com/blog/como-programar-una-red-neuronal-desde-0-en-python/
+- - Cuáles son las librerias mas pupulares
+  - Keras. Esta es una biblioteca estupenda para el aprendizaje de máquinas vía Python. Hace quer el expresar redes neuronales sera muy fácil pues da algunas de las mejores herramientas para compilar modelos, procesar conjuntos de datos, visualizar gráficas y mucho más.
+  - Numpy. Numpy puede ser usada para expresar imágenes, sonidos y otros datos que se representan normalmente como un arreglo de números reales en N dimensiones.
+  - TensorFlow. Esta es una biblioteca de código abierto desarrollada por Google, en colaboración con Brain Team. TensorFlow se usa principalmente cuando se requieren muchos cálculos. Como una red neuronal es una gráfica computacional, puede ser implementada como una serie de operaciones sobre tensores, usando TensorFlow.
+  - Scikit-Learn. Scikit-Learn da muchos algoritmos para implementar las tareas clásicas en el aprendizaje de máquinas, reduciendo la dimensionalidad, clasificación, regresión y clustering.
+- - Librerias
+  - Keras. Esta es una biblioteca estupenda para el aprendizaje de máquinas vía Python. Hace quer el expresar redes neuronales sera muy fácil pues da algunas de las mejores herramientas para compilar modelos, procesar conjuntos de datos, visualizar gráficas y mucho más.
+  - Numpy. Numpy puede ser usada para expresar imágenes, sonidos y otros datos que se representan normalmente como un arreglo de números reales en N dimensiones.
+  - TensorFlow. Esta es una biblioteca de código abierto desarrollada por Google, en colaboración con Brain Team. TensorFlow se usa principalmente cuando se requieren muchos cálculos. Como una red neuronal es una gráfica computacional, puede ser implementada como una serie de operaciones sobre tensores, usando TensorFlow.
+  - Scikit-Learn. Scikit-Learn da muchos algoritmos para implementar las tareas clásicas en el aprendizaje de máquinas, reduciendo la dimensionalidad, clasificación, regresión y clustering. 
+- - Qué es una capa
+  - Una capa es un conjunto de neuronas cuyas entradas provienen de una capa anterior (o de los datos de entrada en el caso de la primera capa) y cuyas salidas son la entrada de una capa posterior.
+- - Qué son las capas
+  - Una capa es un conjunto de neuronas cuyas entradas provienen de una capa anterior (o de los datos de entrada en el caso de la primera capa) y cuyas salidas son la entrada de una capa posterior.
+- - Cómo se compone
+  - Una red neuronal, por lo tanto, siempre está compuesta por una capa de entrada, una capa de salida (si solo hay una capa en la red neuronal, la capa de entrada coincide con la capa de salida) y puede contener 0 o más capas ocultas.
+- - Cómo se componen
+  - Una red neuronal, por lo tanto, siempre está compuesta por una capa de entrada, una capa de salida (si solo hay una capa en la red neuronal, la capa de entrada coincide con la capa de salida) y puede contener 0 o más capas ocultas.
+- - recomiendame una librería
+  - Numpy. Numpy puede ser usada para expresar imágenes, sonidos y otros datos que se representan normalmente como un arreglo de números reales en N dimensiones.
+- - recomiendame librerías
+  - TensorFlow. Esta es una biblioteca de código abierto desarrollada por Google, en colaboración con Brain Team. TensorFlow se usa principalmente cuando se requieren muchos cálculos. Como una red neuronal es una gráfica computacional, puede ser implementada como una serie de operaciones sobre tensores, usando TensorFlow.
